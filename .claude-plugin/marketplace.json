@@ -1,0 +1,12 @@
+{
+  "name": "antikythera-theme",
+  "description": "Antikythera, a cyber-Greek theme for the Claude desktop and mobile apps.",
+  "owner": { "name": "WillO-OlliW" },
+  "plugins": [
+    {
+      "name": "antikythera",
+      "source": "./",
+      "description": "A cyber-Greek look: indigo night and electric cobalt, with an engraved Antikythera mechanism turning behind the chat."
+    }
+  ]
+}
